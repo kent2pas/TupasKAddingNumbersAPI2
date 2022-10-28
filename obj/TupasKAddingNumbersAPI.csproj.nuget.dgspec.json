@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kentc\\OneDrive\\Documents\\Coding Combine\\APIHomework\\TupasKAddingNumbersAPI\\TupasKAddingNumbersAPI.csproj": {}
+    "C:\\Users\\kentc\\OneDrive\\Documents\\Coding Combine\\APIHomework\\TupasKAddingNumbersAPI2\\TupasKAddingNumbersAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kentc\\OneDrive\\Documents\\Coding Combine\\APIHomework\\TupasKAddingNumbersAPI\\TupasKAddingNumbersAPI.csproj": {
+    "C:\\Users\\kentc\\OneDrive\\Documents\\Coding Combine\\APIHomework\\TupasKAddingNumbersAPI2\\TupasKAddingNumbersAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kentc\\OneDrive\\Documents\\Coding Combine\\APIHomework\\TupasKAddingNumbersAPI\\TupasKAddingNumbersAPI.csproj",
+        "projectUniqueName": "C:\\Users\\kentc\\OneDrive\\Documents\\Coding Combine\\APIHomework\\TupasKAddingNumbersAPI2\\TupasKAddingNumbersAPI.csproj",
         "projectName": "TupasKAddingNumbersAPI",
-        "projectPath": "C:\\Users\\kentc\\OneDrive\\Documents\\Coding Combine\\APIHomework\\TupasKAddingNumbersAPI\\TupasKAddingNumbersAPI.csproj",
+        "projectPath": "C:\\Users\\kentc\\OneDrive\\Documents\\Coding Combine\\APIHomework\\TupasKAddingNumbersAPI2\\TupasKAddingNumbersAPI.csproj",
         "packagesPath": "C:\\Users\\kentc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kentc\\OneDrive\\Documents\\Coding Combine\\APIHomework\\TupasKAddingNumbersAPI\\obj\\",
+        "outputPath": "C:\\Users\\kentc\\OneDrive\\Documents\\Coding Combine\\APIHomework\\TupasKAddingNumbersAPI2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kentc\\AppData\\Roaming\\NuGet\\NuGet.Config"

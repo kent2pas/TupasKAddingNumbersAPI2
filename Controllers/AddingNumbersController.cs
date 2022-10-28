@@ -1,6 +1,6 @@
-//
-//
-//
+//Kent Tupas
+//10/25/2022
+//Adding Numbers API
 //Peer Review: by Christopher Prado 25OCT22 , your APIinput for MiniChallenge 2 runs effectively. I think its awesome how I can add any 2 number together and it's connected to the local host 
 
 
